@@ -14,6 +14,6 @@ When I started to learn Python I looked everywhere for a version of this retro g
 that I could see at code level - to better my understanding. Theres a LOT of different versions out there, some unfinished but this one 
 works well on my Raspberry Pi (Raspbian), Ubuntu Linux, and my Windows PC (has .exe file to run).
 
-I wanted to make this easy to access across devices
+I wanted to make this easy for me to access across my different devices
 
 Ben Woodfield
